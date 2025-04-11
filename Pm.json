@@ -3,6 +3,6 @@
   "ticker": "TPIPE",
   "description": "Developer solutions to build reliable Web3 apps",
   "homepage": "https://txpipe.io/",
-  "nonce": "1744305843",
-  "extended": "https://apexpools.demeter.run/testnet/emeta.json"
+  "nonce": "1744410862",
+  "extended": "https://raw.githubusercontent.com/09dd/A/refs/heads/main/EM.json"
 }
